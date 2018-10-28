@@ -10,6 +10,7 @@ On the bottom right of the card, there is a button to expand the view, to view d
 Since sometimes the content part in [News API](https://newsapi.org/sources) responses are empty, maybe the expanded view shows empty.
 It's not a bug.
 <img src="/pictures/device-2018-10-25-015151.png" width=200 alt="expanded">
+
 The button on the bottom left is a share button, to share the title and the website.
 
 On the upper right, explore icon, is a filter that control what kind of news to show in the app. When click apply, the app will refresh automatically.
